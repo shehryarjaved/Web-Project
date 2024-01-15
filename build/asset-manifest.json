@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "./static/css/main.6591ea6f.css",
+    "main.js": "./static/js/main.ca55490b.js",
+    "static/media/me-new.png": "./static/media/me-new.f9d7d57001e0a9997b7f.png",
+    "static/media/img2.png": "./static/media/img2.140e843a03bbedec6547.png",
+    "static/media/img3.png": "./static/media/img3.c60ea6feffb480f499d4.png",
+    "static/media/img4.png": "./static/media/img4.4781289ea65201c160af.png",
+    "static/media/img5.jpg": "./static/media/img5.305359fd5bd1a6a77eac.jpg",
+    "static/media/ShehryarCV.pdf": "./static/media/ShehryarCV.7cec31f6bd159b82755b.pdf",
+    "static/media/my-image2.jpg": "./static/media/my-image2.75839332eb1dddce7a98.jpg",
+    "index.html": "./index.html",
+    "main.6591ea6f.css.map": "./static/css/main.6591ea6f.css.map",
+    "main.ca55490b.js.map": "./static/js/main.ca55490b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6591ea6f.css",
+    "static/js/main.ca55490b.js"
+  ]
+}
